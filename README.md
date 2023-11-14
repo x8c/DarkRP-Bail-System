@@ -10,7 +10,7 @@ https://medal.tv/games/garrys-mod/clips/1DRz2O870YrzjC/d1337KHm8afe?invite=cr-MS
 
 INSTRUCTIONS
 Place into your addons folder like this
-
+```
 addons
 │
 └── [custom]_bail-system
@@ -26,7 +26,7 @@ addons
     │   │   └── server
     │   │       │
     │   │       └── sv_bailsystem.lua
-
+```
 
 Contact me:
 Discord: oehx
